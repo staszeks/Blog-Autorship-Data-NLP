@@ -29,8 +29,8 @@ Folder with all the shared code as scripts, e.g. helper functions <i>.py</i>.
 
 Using ``conda``:
 ```shell
-$ conda create -n tidio python=3.8.5
-$ conda activate tidio
+$ conda create -n blog_autorship python=3.8.5
+$ conda activate blog_autorship
 ```
 
 In folder repository:
