@@ -27,8 +27,7 @@ Folder with all the shared code as scripts, e.g. helper functions <i>.py</i>.
 ## load files from OneDrive
 In order to speed up the whole process and use already trained models and training history I decided to upload all of the heavy files to OneDrive Storage.
 
-1 x model ~ 400MB x 4 (each task)
-raw data ~ 780MB
+1 x model ~ 400MB x 4 (each task) + raw data ~ 780MB
 
 Please use the link provided below to download all of the neccessary files and copy them into appropriate folder in the repository (each folder name should stay the same).
 
