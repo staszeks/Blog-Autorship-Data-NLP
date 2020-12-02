@@ -5,6 +5,9 @@ Folder for keeping the data and structure for neccessary outputs.
 
 <b> All original data should be kept on private repositories. In order to use the code, data should be copied here. </b>
 
+## models
+Folder for keeping the trained model objects and record training history
+
 ## notebooks
 Folder for jupyter notebooks.
 - **EDA** - notebook for explanatory data analysis
@@ -14,7 +17,7 @@ Folder for jupyter notebooks.
 <b> All functions developed in notebooks which may be used outside of those notebooks 
 should be saved to utilities.</b>
 
-## utilities
+## utils
 Folder with all the shared code as scripts, e.g. helper functions <i>.py</i>.
 - utils.py
 
